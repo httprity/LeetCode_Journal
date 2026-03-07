@@ -11,3 +11,4 @@ public:
        return inc || dec;
     }
 };
+// logic behind this is: either way te amar ekta specific array'r jonno jekono ekta condition true thaktese. 
